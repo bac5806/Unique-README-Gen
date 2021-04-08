@@ -60,7 +60,6 @@ Here are some guidelines to help you get started:
 ## Grading Requirements
 
 This homework is graded based on the following criteria: 
-
 ### Deliverables: 20%
 
 * A sample README generated using the application must be submitted.
